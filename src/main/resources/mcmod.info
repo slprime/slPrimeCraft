@@ -3,12 +3,12 @@
 	"modList": [{
 		"modid": "${modId}",
 		"name": "${modName}",
-		"description": "An example mod for Minecraft 1.7.10 with Forge focused on a stable setup.",
+		"description": "Always Render Name Tag for Animals.",
 		"version": "${modVersion}",
 		"mcversion": "${minecraftVersion}",
-		"url": "https://github.com/SinTh0r4s/MyMod",
+		"url": "",
 		"updateUrl": "",
-		"authorList": ["SinTho0r4s"],
+		"authorList": ["slprime"],
 		"credits": "",
 		"logoFile": "",
 		"screenshots": [],
@@ -16,6 +16,6 @@
 		"requiredMods": [],
 		"dependencies": [],
 		"dependants": [],
-		"useDependencyInformation": false
+		"useDependencyInformation": true
 	}]
 }
